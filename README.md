@@ -1,4 +1,4 @@
-## This project is about creating an end-to-end document Q&A chatbot using an open-source model called Gamma from Google and Groq, an inferencing engine.
+## This project is about creating an end-to-end document Q&A chatbot using an open-source model called Gamma from Google and Groq an inferencing engine.
 
 ### The steps involved in creating this chatbot:
 
